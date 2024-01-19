@@ -18,6 +18,7 @@ the .zip library:
 
 I uploaded the library that was used in most of the experiments, the "ESP32-audioI2S-master.zip"
 although whenever it's required to be used, a link of the github repository was posted in the experiment's guide.
+
 ---------------------------------------------------------------------------------------------------------------------------
 recommendation:
 
