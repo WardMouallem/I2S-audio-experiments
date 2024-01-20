@@ -10,11 +10,11 @@ the main experiments that have been created, tested and documented are:
   
 each experiment contains the following:
 - an easy-to-follow guide with step-by-step explanation, connection diagrams and code
-- a video of me doing the experiment live to demonstrate that it's working (except for the last experiment, mono\stereo)
+- a video of me doing the experiment live to demonstrate that it's working (except for the last experiment, mono\stereo) *TODO*
 - audio samples used in the experiment
 - code files
 ---------------------------------------------------------------------------------------------------------------------------
-the .zip library:
+the .zip library: *TODO*
 
 I uploaded the library that was used in most of the experiments, the "ESP32-audioI2S-master.zip"
 although whenever it's required to be used, a link of the github repository was posted in the experiment's guide.
