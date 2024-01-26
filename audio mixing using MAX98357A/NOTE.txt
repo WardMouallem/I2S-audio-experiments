@@ -1,0 +1,2 @@
+the video to this experiment is the same one as in:
+"playing audio file from SPIFFS using MAX..."
